@@ -4,3 +4,8 @@ body {
   font-family: Arial, sans-seriff;
   padding: 20px;
 }
+
+.logo {
+  float: left;
+  padding: 20px;
+}
