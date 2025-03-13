@@ -8,3 +8,29 @@ body {
   float: left;
   padding: 20px;
 }
+
+nav {
+  background-color: ;
+}
+
+.navbar {
+  background-color: #F1E6A1;
+  padding: 5px;
+  border: 2px solid
+}
+
+nav a {
+  display: inline-block;
+  padding: 12px;
+  border: 1px solid black;
+  color: black;
+  background-color: #83CBEB;
+}
+
+nav a:hover {
+  color: purple;
+}
+
+nav a:active {
+  color: purple;
+}
