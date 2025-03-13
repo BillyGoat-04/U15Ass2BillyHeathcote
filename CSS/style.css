@@ -34,3 +34,9 @@ nav a:hover {
 nav a:active {
   color: purple;
 }
+
+.footer {
+  border: 3px;
+  border-color: black;
+  width: 1850px;
+}
