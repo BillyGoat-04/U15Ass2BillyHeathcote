@@ -41,3 +41,8 @@ nav a:active {
 .footer li {
   padding: 3px
 }
+
+p {
+  font-family: Bahnschrift Light Condensed;
+  font-size: 25px;
+}
