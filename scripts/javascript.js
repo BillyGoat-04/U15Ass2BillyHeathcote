@@ -9,3 +9,16 @@ function validateForm() {
 errorMessage.innerHTML = 'Passwords do not mmatch';
   return false;
 }
+
+// Check if passwords match
+if (password !== confirmPassword) {
+  errorMessage.innerHTML = 'Passwords do not match!';
+  return false;
+}
+
+// Check if all fields are filled
+if (name === '' || email === '' ||
+    password === '' || confirmPassword === '') {
+  errorMessage.innerHTML = 'All fields are required!';
+  return false;
+}
