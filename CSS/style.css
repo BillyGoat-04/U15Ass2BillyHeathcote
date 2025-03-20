@@ -112,3 +112,8 @@ p {
 #event1 {
   font-family: Lucida-sans;
 }
+
+.egg {
+  width: 100px;
+  height: 100px;
+}
