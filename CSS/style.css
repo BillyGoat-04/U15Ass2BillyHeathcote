@@ -47,3 +47,10 @@ nav a:active {
 p {
   font-family: Lucida-sans;
 }
+
+.mem {
+  background-color: white;
+  display: inline-block;
+  width: 500px;
+  border-radius: 20px;
+}
