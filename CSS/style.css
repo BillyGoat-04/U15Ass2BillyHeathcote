@@ -97,3 +97,18 @@ p {
 .contact-form button[type="submit"]:hover {
     background-color: #45a049;
 }
+
+.main-cont {
+  background-color: #83CBEB;
+  border-radius: 20px;
+  border: 1px solid;
+  padding: 20px;
+}
+
+#event1 {
+  font-family: Lucida-sans;
+}
+
+#event1 {
+  font-family: Lucida-sans;
+}
