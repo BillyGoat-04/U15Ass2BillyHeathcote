@@ -10,6 +10,12 @@ body {
   height: 60px;
 }
 
+.info {
+  font-size: 25px;
+  background-color: 83CBEB;
+  border:1px solid;width:800px;
+}
+
 nav {
   background-color: #F1E6A1;
   border: 2px solid;
