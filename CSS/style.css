@@ -13,7 +13,8 @@ body {
 .info {
   font-size: 25px;
   background-color: 83CBEB;
-  border:1px solid;width:800px;
+  border: 1px solid;
+  width:800px;
 }
 
 nav {
