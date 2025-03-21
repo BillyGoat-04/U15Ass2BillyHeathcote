@@ -126,10 +126,12 @@ p {
   width: 100px;
   height: 100px;
   float: left;
+  padding: 3px;
 }
 
 .ball {
   width: 100px;
   height: 100px;
   float: left;
+  padding: 3px;
 }
